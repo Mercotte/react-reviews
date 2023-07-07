@@ -1,8 +1,9 @@
-import ControlledInputs from './tutoriels/04-formulaires/2-user-challenges';
+import Starter from './tutoriel/04-formulaires/4-autres-inputs.jsx';
+
 const App = () => {
   return (
     <div className='container'>
-      <ControlledInputs />
+      <Starter />
     </div>
   );
 };
